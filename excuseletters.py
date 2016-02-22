@@ -1,12 +1,3 @@
-"""
-
-Four steps to do well:
-	1) acknowledge nervousness
-	2) allow nervousness, to an extent
-	3) use that to...
-	4) comfortably kick ass
-
-"""
 import pickle
 try:
 	classDict = pickle.load( open('classdict.p', 'rb'))
